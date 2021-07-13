@@ -1,6 +1,3 @@
-![Screenshot 2021-07-13 at 12-19-42 Frontend Mentor 3-column preview card component](https://user-images.githubusercontent.com/84665360/125435740-234fece9-440f-443e-bb86-8d3b178a80de.png)
-![Screenshot 2021-07-13 at 12-19-42 Frontend Mentor 3-column preview card component](https://user-images.githubusercontent.com/84665360/125435767-d917ab58-4e8e-4cb9-b62f-5b1776960c34.png)
-![Screenshot 2021-07-13 at 12-20-05 Frontend Mentor 3-column preview card component](https://user-images.githubusercontent.com/84665360/125435780-25b618de-2a60-4864-94b5-bbf300d48286.png)
 # Frontend Mentor - 3-column preview card component solution
 
 This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
@@ -40,7 +37,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Challenge Solution](https://your-solution-url.com)
+- Solution URL: [Challenge Solution](https://www.frontendmentor.io/solutions/responsive-3columnpreviewcardcomponent-using-grid-sTB2OPr0I)
 - Live Site URL: [Live Site](https://zaidmarrie.github.io/3-column-preview-card/)
 
 ## My process
